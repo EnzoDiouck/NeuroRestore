@@ -1,0 +1,9 @@
+tensorflow
+pillow
+numpy
+opencv-python
+matplotlib
+tqdm
+opencv-python-headless
+albumentations
+scikit-image
